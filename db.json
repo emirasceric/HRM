@@ -1,0 +1,55 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "Google"
+    },
+    {
+      "id": 3,
+      "name": "Microsoft"
+    },
+    {
+      "id": 4,
+      "name": "Facebook"
+    }
+  ],
+  "employees": [
+    {
+      "id": 2,
+      "firstName": "Britney",
+      "lastName": "Hughes"
+    },
+    {
+      "id": 3,
+      "firstName": "Tiffany",
+      "lastName": "Spears"
+    },
+    {
+      "id": 4,
+      "firstName": "Tom",
+      "lastName": "Richardson"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Initial Project"
+    },
+    {
+      "id": 2,
+      "name": "Development Project"
+    },
+    {
+      "id": 3,
+      "name": "Building Project"
+    },
+    {
+      "id": 4,
+      "name": "Testing Project"
+    }
+  ]
+}
